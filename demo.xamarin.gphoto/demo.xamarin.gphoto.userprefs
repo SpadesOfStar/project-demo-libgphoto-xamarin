@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D5D156C7-EDFA-4981-A4F5-BFD7E85CABF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo.xamarin.gphoto/gphoto/Camera.cs">
+    <Files>
+      <File FileName="demo.xamarin.gphoto/Activities/MainActivity.cs" Line="45" Column="13" />
+      <File FileName="demo.xamarin.gphoto/gphoto/CapturePhoto.cs" Line="26" Column="6" />
+      <File FileName="demo.xamarin.gphoto/gphoto/Camera.cs" Line="11" Column="9" />
+      <File FileName="demo.xamarin.gphoto/gphoto/Utils/ShowListOfPhotos.cs" Line="10" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.demo.xamarin.gphoto PreferredExecutionTarget="Android.Nexus_5_API_24" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
